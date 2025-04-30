@@ -1,2 +1,1 @@
-# Kipme
-ngoding sek
+
